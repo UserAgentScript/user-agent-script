@@ -18,6 +18,7 @@
     "packages/*"
   ],
   "devDependencies": {
+    "eslint": "^7.5.0",
     "lerna": "^3.22.1"
   }
 }

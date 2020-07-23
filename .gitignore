@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+
+# IDE
+.vscode
+
+# Lang
+node_modules
+package-lock.json
+.pnp.js
+
+# common
+*.log
+*.cache
+
+# Project
+dist
