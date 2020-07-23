@@ -1,0 +1,23 @@
+{
+  "name": "@uscript/root",
+  "private": true,
+  "license": "MIT",
+  "version": "0.1.0",
+  "description": "browser side user agent script.",
+  "keywords": [
+    "tampermonkey",
+    "greasemonkey",
+    "userscript"
+  ],
+  "author": "Yorululu <yr6kami@gmail.com>",
+  "repository": "git@github.com:UserAgentScript/user-agent-script.git",
+  "installConfig": {
+    "pnp": true
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
